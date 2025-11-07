@@ -1,7 +1,7 @@
 let score = 11
 
-console.log(typeof score);
-console.log(typeof(scrore));
+//console.log(typeof score);
+//console.log(typeof(scrore));
 
 //"33" => 33
 // "33abc" => NaN
@@ -11,9 +11,35 @@ console.log(typeof(scrore));
 
 let someNumber = 33
 let stringNumber =  String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+//console.log(stringNumber);
+//console.log(typeof stringNumber);
 
 let value = 2
 let negValue = -value
 //console.log(negValue);
+
+//console.log(2/3);
+//console.log(2**3);
+//console.log(2%3);
+
+let str1 ="hello"
+let str2 = " aastha"
+let str3 = str1 + str2
+//console.log(str3);
+
+//console.log("1" + 2);
+//console.log(1 + "2");
+//console.log("1" + 2 + 2);
+//console.log(2 + 2 + "1");
+//console.log(true); 
+//console.log(+true);
+//console.log(+"");
+
+let num1, num2, num3
+num1 = num2 = num3 = 2 + 2
+
+//x++
+//if x=3 then x++ = 3
+
+//++x
+//if x=3 then ++x = 4
