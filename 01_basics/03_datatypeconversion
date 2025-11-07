@@ -1,7 +1,8 @@
-let score = 11
+export {};
+let score = 11;
 
-//console.log(typeof score);
-//console.log(typeof(scrore));
+console.log(typeof score);
+console.log(typeof(score));
 
 //"33" => 33
 // "33abc" => NaN
